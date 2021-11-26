@@ -1,2 +1,4 @@
 # technojam-task
-task for technojam
+
+This repository contains the task for technojam audition 2021.
+
